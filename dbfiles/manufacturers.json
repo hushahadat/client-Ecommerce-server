@@ -1,0 +1,64 @@
+[{
+  "_id": 2,
+  "mName": "Audigo Hearing Solutions Private Limited",
+  "mPhoneNo": "08048977230",
+  "mLocation": "Raja Bazar, Patna",
+  "PointOfContact": "Bengaluru",
+  "mEmail": "audigo.hearing@gmail.com"
+},{
+  "_id": 3,
+  "mName": "Unicron Hearing Solution",
+  "mPhoneNo": "080473104152",
+  "mLocation": "Palghar,Maharashtra",
+  "PointOfContact": "Bengaluru",
+  "mEmail": "unicronhearingsolution@gmail.com"
+},{
+  "_id": 4,
+  "mName": "Verma Hearing Aid Center",
+  "mPhoneNo": "07942558902",
+  "mLocation": "New Moti Nagar, Delhi",
+  "PointOfContact": "Bengaluru",
+  "mEmail": "vhacenter@gmail.com"
+},{
+  "_id": 5,
+  "mName": "E- Mold Techniques",
+  "mPhoneNo": "08048967016",
+  "mLocation": "Paldi, Ahmedabad",
+  "PointOfContact": "Bengaluru",
+  "mEmail": "emoldtechniques@yahoo.com"
+},{
+  "_id": 6,
+  "mName": "G.L.Enterprises",
+  "mPhoneNo": "08047315001",
+  "mLocation": "New Delhi",
+  "PointOfContact": "Bengaluru",
+  "mEmail": "sales@glenterprises.co.in"
+},{
+  "_id": 7,
+  "mName": "Medx Healthcare",
+  "mPhoneNo": "08048962313",
+  "mLocation": "NIKOL, Ahmedabad",
+  "PointOfContact": "Bengaluru",
+  "mEmail": "solutions@medxhealth.com"
+},{
+  "_id": 8,
+  "mName": "Green Life Healthcare",
+  "mPhoneNo": "08048604726",
+  "mLocation": "Green Life Healthcare",
+  "PointOfContact": "Bengaluru",
+  "mEmail": "greenlifehealthcare@yahoo.com"
+},{
+  "_id": 9,
+  "mName": "Sunil Enterprises",
+  "mPhoneNo": " 08048950965",
+  "mLocation": "Mukundpur, New Delhi",
+  "PointOfContact": "Bengaluru",
+  "mEmail": " info@sunilenterprises.com"
+},{
+  "_id": 10,
+  "mName": "Arphi Electronics Pvt. Ltd",
+  "mPhoneNo": "08048955468",
+  "mLocation": "Andheri East, Mumbai",
+  "PointOfContact": "Kolkata",
+  "mEmail": "info@arphi.com"
+}]

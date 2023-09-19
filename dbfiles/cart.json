@@ -1,0 +1,91 @@
+[
+  {
+    "_id": 201,
+    "uId": 1,
+    "total": 3785,
+    "products": [
+      {
+        "_id": 106,
+        "pName": "Headphones",
+        "price": 1345,
+        "img_path": "assets/images/prodheadphone.jpg",
+        "count": 1
+      },
+      {
+        "_id": 105,
+        "pName": "Mouse",
+        "price": 720,
+        "img_path": "assets/images/prodmouse.jpg",
+        "count": 2
+      },
+      {
+        "_id": 102,
+        "pName": "USB",
+        "price": 1000,
+        "img_path": "assets/images/produsb.jpg",
+        "count": 1
+      }
+    ]
+  },
+  {
+  "_id": 202,
+  "uId": 2,
+  "total": 3785,
+  "products": [
+    {
+      "_id": 106,
+      "pName": "Headphones",
+      "price": 1345,
+      "img_path": "assets/images/prodheadphone.jpg",
+      "count": 1
+    },
+    {
+      "_id": 105,
+      "pName": "Mouse",
+      "price": 720,
+      "img_path": "assets/images/prodmouse.jpg",
+      "count": 2
+    },
+    {
+      "_id": 102,
+      "pName": "USB",
+      "price": 1000,
+      "img_path": "assets/images/produsb.jpg",
+      "count": 1
+    }
+  ]
+},{
+  "_id": 203,
+  "uId": 3,
+  "total": 90920,
+  "products": [
+    {
+      "_id": 102,
+      "pName": "USB",
+      "price": 1000,
+      "img_path": "assets/images/produsb.jpg",
+      "count": 2
+    },
+    {
+      "_id": 104,
+      "pName": "Keyboard",
+      "price": 1200,
+      "img_path": "assets/images/prokeyboard.jpg",
+      "count": 1
+    },
+    {
+      "_id": 101,
+      "pName": "Laptop",
+      "price": 87000,
+      "img_path": "assets/images/prodlaptop.jpg",
+      "count": 1
+    },
+    {
+      "_id": 105,
+      "pName": "Mouse",
+      "price": 720,
+      "img_path": "assets/images/prodmouse.jpg",
+      "count": 1
+    }
+  ]
+}]

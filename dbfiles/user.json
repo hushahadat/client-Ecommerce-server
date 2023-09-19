@@ -1,0 +1,50 @@
+[
+  {
+    "_id": 1,
+    "firstname": "User",
+    "lastname": "1",
+    "dob": "03/07/1999",
+    "gender": "M",
+    "remailid": "user@gmail.com",
+    "rpassword": "6e5d63104e6005cdeae9b78ebc2c220c",
+    "phonenumber": "08298057652",
+    "address": "Road No-09,house No-08,bagan Shahi,azadnagar,mango",
+    "addresstwo": "Blr",
+    "city": "Jamshedpur",
+    "country": "India",
+    "state": "Jharkhand",
+    "role": "User"
+  },
+  {
+    "_id": 2,
+    "firstname": "Hamsitha",
+    "lastname": "B",
+    "dob": "1/6/2001",
+    "gender": "F",
+    "remailid": "bhamsitha858@gmail.com",
+    "rpassword": "6e5d63104e6005cdeae9b78ebc2c220c",
+    "phonenumber": "07483887189",
+    "address": "#100,5th cross,srigandha nagar,hegganhallli",
+    "addresstwo": "Bangalore-Karnataka-560091",
+    "city": "Bangalore",
+    "country": "India",
+    "state": "Karnataka",
+    "role": "User"
+  },
+  {
+    "_id": 3,
+    "firstname": "Shahadat",
+    "lastname": "Hussain",
+    "dob": "03/07/1999",
+    "gender": "M",
+    "remailid": "shahadathussain757@gmail.com",
+    "rpassword": "6e5d63104e6005cdeae9b78ebc2c220c",
+    "phonenumber": "08298057652",
+    "address": "Road No-09,house No-08,bagan Shahi,azadnagar,mango",
+    "addresstwo": "Blr",
+    "city": "Jamshedpur",
+    "country": "India",
+    "state": "Jharkhand",
+    "role": "Admin"
+  }
+]

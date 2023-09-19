@@ -1,0 +1,78 @@
+[{
+  "_id": 104,
+  "pName": "Phonak Bolero",
+  "pStyle": "M70-M",
+  "pBattery": "20-85/110",
+  "pFittingRange": "312",
+  "pRemarks": "Behind the ear",
+  "price": 160000,
+  "supplier_id": 47,
+  "manufacturer_id": 100,
+  "img_path": "assets/prodimg/phonak-bolero.jpeg"
+},{
+  "_id": 105,
+  "pName": "Resound LiNX Quattro 9",
+  "pStyle": "DW BTE",
+  "pBattery": "20-85/110",
+  "pFittingRange": "20-100",
+  "pRemarks": "Fibre channel-17",
+  "price": 240000,
+  "supplier_id": 52,
+  "manufacturer_id": 100,
+  "img_path": "assets/prodimg/resound-linxquattro9.jpg"
+},{
+  "_id": 106,
+  "pName": "Starkey Livio",
+  "pStyle": "RIC R",
+  "pBattery": "10",
+  "pFittingRange": "312",
+  "pRemarks": "Soundlens IO 1600",
+  "price": 69000,
+  "supplier_id": 49,
+  "manufacturer_id": 100,
+  "img_path": "assets/prodimg/starkey-livio.jpg"
+},{
+  "_id": 107,
+  "pName": "Audifon Rega RITE ",
+  "pStyle": "RITE",
+  "pBattery": "25-105/115",
+  "pFittingRange": "13",
+  "pRemarks": "Visible receivers in the canal",
+  "price": 77000,
+  "supplier_id": 50,
+  "manufacturer_id": 100,
+  "img_path": "assets/prodimg/rega-rite.jpg"
+},{
+  "_id": 108,
+  "pName": "IIC Hearing Aid",
+  "pStyle": "IIC",
+  "pBattery": "20-85/110",
+  "pFittingRange": "10",
+  "pRemarks": "ABS Plastic material, placement in the canal",
+  "price": 30000,
+  "supplier_id": 58,
+  "manufacturer_id": 120,
+  "img_path": "assets/prodimg/iic-hearingaid.jpeg"
+},{
+  "_id": 109,
+  "pName": "Resound LiNX Quattro 7",
+  "pStyle": "DRWC RIE",
+  "pBattery": "20-85/110",
+  "pFittingRange": "10",
+  "pRemarks": "Rechargeable battery",
+  "price": 175000,
+  "supplier_id": 58,
+  "manufacturer_id": 120,
+  "img_path": "assets/prodimg/res7.jpg"
+},{
+  "_id": 110,
+  "pName": "REXTON STYLINE",
+  "pStyle": "RIC BT 80",
+  "pBattery": "20-85/110",
+  "pFittingRange": "10",
+  "pRemarks": "Behind the ear, Made for IPhone",
+  "price": 648000,
+  "supplier_id": 58,
+  "manufacturer_id": 120,
+  "img_path": "assets/prodimg/styline.jpg"
+}]
